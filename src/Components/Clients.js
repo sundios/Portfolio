@@ -8,7 +8,7 @@ class Clients extends Component {
         var projectImage = 'images/portfolio/'+brands.image;
         return <div key={brands.title} className="columns portfolio-item">
            <div className="item-wrap">
-            <h1 title={brands.title}>
+            <a href={brands.url} title={brands.title}>
                <img alt={brands.title} src={projectImage} />
                <div className="overlay">
                   <div className="portfolio-item-meta">
@@ -17,7 +17,7 @@ class Clients extends Component {
                   </div>
                 </div>
               <div className="link-icon"><i className="fa fa-link"></i></div>
-            </h1>
+            </a>
           </div>
         </div>
       })
@@ -32,7 +32,7 @@ class Clients extends Component {
 
             <h1>Clients I have work with.</h1>
 
-            <div id="clients-wrapper" className="bgrid-quarters">
+            <div id="clients-wrapper" className="bgrid-quarters s-bgrid-thirds cf">
                 {brands}
             </div>
           </div>

@@ -26,10 +26,10 @@
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Jacobs University Bremen",
+        "degree":"Masters of Science - Data Engineering",
+        "graduated":"2018 - 2020"
+        
       },
       {
         "school":"School #1 Maybe College?",
@@ -120,31 +120,48 @@
   "clients":{
     "brands": [
       {
-        "image":"clients/disney.jpg"
-      },
-      {
-        "title":"ESPN",
-        "category":"",
-        "image":"fury-fighting-gear.jpg"
+        "title":"Disney.com",
+        "image":"clients/disney.png",
+        "url":"https://www.disney.com"
         
       },
       {
-        "title":"Starwars",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title":"ESPN.com",
+        "image":"clients/espn.png",
+        "url":"https://www.espn.com"
+        
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Starwars.com ",
+        "image":"clients/lucas.png",
+        "url":"https://www.starwars.com"
+        
       },
       {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"Uber EMEA",
+        "image":"clients/uber.png",
+        "url":"https://www.uber.com"
+        
+      },
+      {
+        "title":"Personal Paraguay",
+        "image":"clients/personal.png",
+        "url":"https://personal.com.py"
+      },
+      {
+        "title":"Tuves HD Chile",
+        "image":"clients/tuves.png",
+        "url":"https://www.tuves.cl"
+      },
+      {
+        "title":"Inter Satelital Bolivia",
+        "image":"clients/intersat.png",
+        "url":"https://www.intersatelital.com.bo"
+      },
+      {
+        "title":"Personal Paraguay",
+        "image":"clients/personal.png",
+        "url":"https://personal.com.py"
       }
     ]
   },
