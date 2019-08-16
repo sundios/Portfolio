@@ -322,15 +322,22 @@ ul#nav li.current a { color: #F06000; }
 /*----------------------------------------------*/
 
 .box{
-  border:solid;
-  width: 25%;
+  width: 20%;
   float:left;
+  margin-top: 12px
 }
 
 .box img
 {    margin: auto;
     display: block;
     max-width: 50%;  }
+
+.box h6{
+  text-align: center;
+}
+
+.m { margin-bottom: 35px; 
+float:right;}
 
 
 
