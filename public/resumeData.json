@@ -28,29 +28,50 @@
       {
         "school":"Jacobs University Bremen",
         "degree":"Masters of Science - Data Engineering",
-        "graduated":"2018 - 2020"
-        
+        "graduated":"2018 - 2020",
+        "description":"Business & Supply Chain Engineering"
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"General Assembly",
+        "degree":"Javascript Development",
+        "graduated":"Sept - Dec 2018",
+        "description":"How to work with Javascript,Jquery, APIs and build SPA and MPA with React."
+      },
+      {
+        "school":"Academy of Arts",
+        "degree":"Bachelor of Fine Arts",
+        "graduated":"2012 - 2013",
+        "description":"BFA, Advertising - Creative Strategy"
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Uber EMEA",
+        "title":"SEO Consultant ",
+        "years":"August 2019 - Present",
+        "description":"" },
+      {
+        "company":"ESPN",
+        "title":"Global SEO Analyst",
+        "years":"Sept 2017 - Sept 2018",
+        "description":"● I was in of all SEO strategies for ESPN.com, ESPN international properties, and ESPN affiliated sites. I did weekly reporting and analysis, SEO Training, and evangelism, Product support, Finding and Fixing SEO issues and content support."
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
-      }
+        "company":"The Walt Disney Company",
+        "title":"SEO Analyst",
+        "years":"Jan 2016 - Sept 2017",
+        "description":"Supported SEO strategy for shopDisney, Espn.com, Disney.com, and Starwars.com." },
+
+        {
+        "company":"The Walt Disney Company",
+        "title":"SEO Associate",
+        "years":"Jan 2015 - Jan 2016",
+        "description":"In charge of Club Penguin,Disney Movies, Disney Video, Disney Channel, XD, and JR. Lead successful Club Penguin migration. I managed 500K URLsand transferred all SEO auth. ASO for all mobile games andapps in Spanish." },
+        {
+        "company":"The Walt Disney Company",
+        "title":"SEO Intern ",
+        "years":"Feb 2014 - Jan 2015",
+        "description":" In charge of SEO for Disney ¡Ajá! and Club Penguin." }
     ],
     "skills":[
       {
