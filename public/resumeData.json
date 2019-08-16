@@ -23,7 +23,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"These are the skills and tools im proficient.",
     "education":[
       {
         "school":"Jacobs University Bremen",
@@ -54,13 +54,13 @@
         "company":"ESPN",
         "title":"Global SEO Analyst",
         "years":"Sept 2017 - Sept 2018",
-        "description":"● I was in of all SEO strategies for ESPN.com, ESPN international properties, and ESPN affiliated sites. I did weekly reporting and analysis, SEO Training, and evangelism, Product support, Finding and Fixing SEO issues and content support."
+        "description":"In charge of all SEO strategies for ESPN.com, ESPN international properties, and ESPN affiliated sites. I did weekly reporting and analysis, SEO Training, and evangelism, Product support, Finding and Fixing SEO issues and content support."
       },
       {
         "company":"The Walt Disney Company",
         "title":"SEO Analyst",
         "years":"Jan 2016 - Sept 2017",
-        "description":"Supported SEO strategy for shopDisney, Espn.com, Disney.com, and Starwars.com." },
+        "description":"Supported SEO strategy for shopDisney.com, Espn.com, Disney.com, and Starwars.com." },
 
         {
         "company":"The Walt Disney Company",
