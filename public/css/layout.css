@@ -321,6 +321,12 @@ ul#nav li.current a { color: #F06000; }
 /*	Skill Bars
 /*----------------------------------------------*/
 
+.skill_column{
+  width: 100%;
+  overflow: auto;
+  margin-bottom:35px;
+  padding: 0 20px;
+}
 .box{
   width: 20%;
   float:left;
@@ -336,8 +342,6 @@ ul#nav li.current a { color: #F06000; }
   text-align: center;
 }
 
-.m { margin-bottom: 35px; 
-float:right;}
 
 
 

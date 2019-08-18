@@ -212,6 +212,8 @@
     /* scrolldown link */
    header .scrolldown { display: none; }
 
+   .typewriter-text { font-size: 30px; }
+
 
    /* About Section
    -------------------------------------------------------------------- */
@@ -236,6 +238,8 @@
    #resume h3, #resume .info { text-align: center; }
       
    .bars { width: 100%; }
+
+   .box{width: 50% }
 
 
    /* Call To Action Section

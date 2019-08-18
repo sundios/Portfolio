@@ -73,67 +73,136 @@
         "years":"Feb 2014 - Jan 2015",
         "description":" In charge of SEO for Disney ¡Ajá! and Club Penguin." }
     ],
-    "skills":[
+    "seo":[
+
+      {
+        "name":"Screaming Frog",
+        "image":"screaming-frog-logo.png",
+        "url":"https://www.screamingfrog.co.uk/?=KonradBurchardt"
+      },
+      {
+        "name":"Search Metrics",
+        "image":"search-metrics.png",
+        "url":"https://www.searchmetrics.com/?=KonradBurchardt"
+      },
+      {
+        "name":"DeepCrawl",
+        "image":"deepcrawl.png",
+        "url":"https://www.deepcrawl.com/?=KonradBurchardt"
+      },
+      {
+        "name":"Stat",
+        "image":"stat.png",
+        "url":"https://www.getstat.com/"
+      },
+      {
+        "name":"Majestic",
+        "image":"majestic.png",
+        "url":"http://majesticseo.com/?=KonradBurchardt"
+      },
+
+      {
+        "name":"SemRush",
+        "image":"semrush.png",
+        "url":"https://www.semrush.com/"
+      },
+      {
+        "name":"Keywordtool.io",
+        "image":"keywordtool.png",
+        "url":"https://www.keywordtool.io/?=KonradBurchardt"
+      },
+      {
+        "name":"Google Search Console",
+        "image":"google.png",
+        "url":"https://search.google.com/search-console/about"
+      }
+    ],
+    "code":[
+      {
+        "name":"HTML & CSS",
+        "image":"htmlcss.png",
+        "url":"https://www.w3.org/standards/webdesign/htmlcss"
+      },
+      {
+        "name":"JavaScript",
+        "image":"js.png",
+        "url":":https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+      },
+      {
+        "name":"React",
+        "image":"react.png",
+        "url":"https://reactjs.org/"
+      },{
+        "name":"Node JS",
+        "image":"nodejs.png",
+        "url":"https://nodejs.org/en/"
+      },
+      {
+        "name":"Bootstrap",
+        "image":"bootstrap.png",
+        "url":"https://getbootstrap.com/"
+      },
+      {
+        "name":"Python",
+        "image":"python.png",
+        "url":"https://www.python.org"
+      },
+      {
+        "name":"MySQL",
+        "image":"mysql.png",
+        "url":"https://www.mysql.com/"
+      },
+      {
+        "name":"Apache Airflow",
+        "image":"airflow.png",
+        "url":"https://airflow.apache.org/"
+      },
       {
         "name":"Git",
-        "level":"60%"
+        "image":"git.png",
+        "url":"https://git-scm.com/"
+      }, 
+      {
+        "name":"WordPress",
+        "image":"wordpress.png",
+        "url":"https://www.wordpres.org"
       },
       {
-        "name":"Illustrator",
-        "level":"55%"
-      },
-      {
-        "name":"ReactJs",
-        "level":"50%"
-      },
-      {
-        "name":"CSS",
-        "level":"90%"
-      },
-      {
-        "name":"HTML5",
-        "level":"80%"
-      },
-      {
-        "name":"VueJs",
-        "level":"50%"
-      },
-      {
-        "name":"MongoDB",
-        "level":"80%"
+        "name":"PHP",
+        "image":"php.png",
+        "url":"https://www.php.net/"
       }
-    ]
-  },"Skills":{
-    "projects": [
+    ],
+    "tools":[
+      {"name":"Google Analytics 360",
+        "image":"google360.png",
+        "url":"https://360suite.google.com/"
+      }, 
+      {"name":"Adobe Omniture",
+        "image":"omniture.png",
+        "url":"https://360suite.google.com/"
+      }, 
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "name":"Adobe Creative Cloud",
+        "image":"adobe.png",
+        "url":"https://www.adobe.com/creativecloud.html"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
+        "name":"Microsoft Office",
+        "image":"office.png",
+        "url":"https://www.office.com/"
+      }
+    ],
+    "languages":[
+      {"name":"English (Full professional proficiency)",
+        "image":"usflag.png"
+      }, 
+      {"name":"Spanish (Native)",
+        "image":"spanish.png"
+      }, 
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "name":"German (Beginner)",
+        "image":"German.png"
       }
     ]
   },
