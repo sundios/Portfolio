@@ -526,6 +526,9 @@ ul#nav li.current a { color: #F06000; }
    margin-bottom: 0;
 }
 
+.portfolio-item-meta h6 { color: white;
+font-size: 10px }
+
 /* on hover */
 .portfolio-item:hover .overlay {
 	opacity: 1;
@@ -537,6 +540,8 @@ ul#nav li.current a { color: #F06000; }
 	-moz-opacity: 1;
 	filter:alpha(opacity=100);
 }
+
+.portfolio
 
 /* popup modal */
 .popup-modal {

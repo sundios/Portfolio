@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import {Helmet} from "react-helmet";
 import ReactGA from 'react-ga';
 import $ from 'jquery';
 import './App.css';
@@ -47,6 +48,13 @@ class App extends Component {
   render() {
     return (
       <div className="App">
+      <Helmet>
+                <meta charSet="utf-8" />
+                <title>Konrad Burchardt - SEO, Web Development & Data Analysis</title>
+                <link rel="canonical" href="https://www.kburchardt.com/" />
+                <meta name="description" content="A description of the page"/>
+            </Helmet>
+
         <Header data={this.state.resumeData.main}/>
         <About data={this.state.resumeData.main}/>
         <Resume data={this.state.resumeData.resume}/>

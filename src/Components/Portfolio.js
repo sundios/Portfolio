@@ -14,6 +14,8 @@ class Portfolio extends Component {
                   <div className="portfolio-item-meta">
                  <h5>{projects.title}</h5>
                      <p>{projects.category}</p>
+                     <h6>SEO Keywords:</h6>
+                     <p>{projects.keywords}</p>
                   </div>
                 </div>
               <div className="link-icon"><i className="fa fa-link"></i></div>

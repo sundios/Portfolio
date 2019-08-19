@@ -26,19 +26,22 @@
     "skillmessage":"These are the skills and tools im proficient.",
     "education":[
       {
-        "school":"Jacobs University Bremen",
+        "school":"Jacobs University",
+        "location":"Bremen, Germany",
         "degree":"Masters of Science - Data Engineering",
         "graduated":"2018 - 2020",
         "description":"Business & Supply Chain Engineering"
       },
       {
         "school":"General Assembly",
+        "location":"Los Angeles, USA",
         "degree":"Javascript Development",
         "graduated":"Sept - Dec 2018",
         "description":"How to work with Javascript,Jquery, APIs and build SPA and MPA with React."
       },
       {
         "school":"Academy of Arts",
+        "location":"San Francisco, USA",
         "degree":"Bachelor of Fine Arts",
         "graduated":"2012 - 2013",
         "description":"BFA, Advertising - Creative Strategy"
@@ -47,31 +50,42 @@
     "work":[
       {
         "company":"Uber EMEA",
+        "location":"Amsterdam, Netherlands",
         "title":"SEO Consultant ",
         "years":"August 2019 - Present",
         "description":"" },
       {
         "company":"ESPN",
+        "location":"Los Angeles, USA",
         "title":"Global SEO Analyst",
         "years":"Sept 2017 - Sept 2018",
         "description":"In charge of all SEO strategies for ESPN.com, ESPN international properties, and ESPN affiliated sites. I did weekly reporting and analysis, SEO Training, and evangelism, Product support, Finding and Fixing SEO issues and content support."
       },
       {
         "company":"The Walt Disney Company",
+        "location":"Los Angeles, USA",
         "title":"SEO Analyst",
         "years":"Jan 2016 - Sept 2017",
         "description":"Supported SEO strategy for shopDisney.com, Espn.com, Disney.com, and Starwars.com." },
 
         {
         "company":"The Walt Disney Company",
+        "location":"Los Angeles, USA",
         "title":"SEO Associate",
         "years":"Jan 2015 - Jan 2016",
         "description":"In charge of Club Penguin,Disney Movies, Disney Video, Disney Channel, XD, and JR. Lead successful Club Penguin migration. I managed 500K URLsand transferred all SEO auth. ASO for all mobile games andapps in Spanish." },
         {
         "company":"The Walt Disney Company",
+        "location":"Los Angeles, USA",
         "title":"SEO Intern ",
         "years":"Feb 2014 - Jan 2015",
-        "description":" In charge of SEO for Disney ¡Ajá! and Club Penguin." }
+        "description":" In charge of SEO for Disney ¡Ajá! and Club Penguin." },
+        {
+        "company":"Tuves HD",
+        "location":"Santiago, Chile",
+        "title":"Digital Marketing",
+        "years":"Jun 2011 - Sept 2012",
+        "description":" Developed an SEO friendly Wordpress theme and grew organic traffic to 20% of the totalacquisition traffic." }
     ],
     "seo":[
 
@@ -209,21 +223,22 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"Tuves Web site",
+        "category":"Web Development( Wordpress theme) and  SEO optimization ",
+        "keywords":"Television satelital HD, television hd chile, TV satelital, tv satelital hd",
+        "image":"tuves-web.gif",
+        "url":"https://www.tuves.cl"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Inter Satelital Monitoreo",
+        "category":"Web Development( Wordpress theme) and  SEO optimization ",
+        "image":"inter-monitoreo.gif",
+        "url":"http://www.intersatelital.com.bo/monitoreo"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
+        "title":"Keiphone",
+        "category":"SEO optimization and website set up.",
+        "image":"keiphone.gif",
         "url":"http://www.timbakerdev.com/originalthaifood.github.io"
       },
       {
@@ -244,46 +259,46 @@
     "brands": [
       {
         "title":"Disney.com",
-        "image":"clients/disney.png",
+        "image":"disney.png",
         "url":"https://www.disney.com"
         
       },
       {
         "title":"ESPN.com",
-        "image":"clients/espn.png",
+        "image":"espn.png",
         "url":"https://www.espn.com"
         
       },
       {
         "title":"Starwars.com ",
-        "image":"clients/lucas.png",
+        "image":"lucas.png",
         "url":"https://www.starwars.com"
         
       },
       {
         "title":"Uber EMEA",
-        "image":"clients/uber.png",
+        "image":"uber.png",
         "url":"https://www.uber.com"
         
       },
       {
         "title":"Personal Paraguay",
-        "image":"clients/personal.png",
+        "image":"personal.png",
         "url":"https://personal.com.py"
       },
       {
         "title":"Tuves HD Chile",
-        "image":"clients/tuves.png",
+        "image":"tuves.png",
         "url":"https://www.tuves.cl"
       },
       {
         "title":"Inter Satelital Bolivia",
-        "image":"clients/intersat.png",
+        "image":"intersat.png",
         "url":"https://www.intersatelital.com.bo"
       },
       {
         "title":"Personal Paraguay",
-        "image":"clients/personal.png",
+        "image":"personal.png",
         "url":"https://personal.com.py"
       }
     ]
