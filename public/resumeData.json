@@ -224,34 +224,31 @@
     "projects": [
       {
         "title":"Tuves Web site",
-        "category":"Web Development( Wordpress theme) and  SEO optimization ",
+        "category":"Web Development + SEO optimization ",
         "keywords":"Television satelital HD, television hd chile, TV satelital, tv satelital hd",
         "image":"tuves-web.gif",
         "url":"https://www.tuves.cl"
       },
       {
-        "title":"Inter Satelital Monitoreo",
-        "category":"Web Development( Wordpress theme) and  SEO optimization ",
-        "image":"inter-monitoreo.gif",
-        "url":"http://www.intersatelital.com.bo/monitoreo"
-      },
-      {
         "title":"Keiphone",
-        "category":"SEO optimization and website set up.",
+        "category":"SEO optimization & Ecommerce set up.",
+        "keywords":"Smartphone Chileno, celular chileno, smartwatch chileno, ",
         "image":"keiphone.gif",
         "url":"http://www.timbakerdev.com/originalthaifood.github.io"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Inter Satelital Monitoreo",
+        "category":"Web Development( Wordpress theme) and  SEO optimization ",
+        "keywords":"rastreo satelital bolivia, Rastreo satelital de vehiculos Bolivia ",
+        "image":"inter-monitoreo.gif",
+        "url":"http://www.intersatelital.com.bo/monitoreo"
       },
       {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"Inter Satelital Bolivia",
+        "category":"",
+        "keywords":"Television satelital hd, Television Satelital Bolivia, tv hd bolivia",
+        "image":"inter.gif",
+        "url":"https://www.intersatelital.com.bo"
       }
     ]
   },
