@@ -245,10 +245,17 @@
       },
       {
         "title":"Inter Satelital Bolivia",
-        "category":"",
+        "category":"Web Development( Wordpress theme) and  SEO optimization",
         "keywords":"Television satelital hd, Television Satelital Bolivia, tv hd bolivia",
         "image":"inter.gif",
         "url":"https://www.intersatelital.com.bo"
+      },
+      {
+        "title":"Useless Thins to Buy",
+        "category":"Web and SEO optimization",
+        "keywords":"Useless things to buy",
+        "image":"uselessthings.gif",
+        "url":"https://www.uselessthingstobuy.com"
       }
     ]
   },
