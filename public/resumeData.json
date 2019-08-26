@@ -3,7 +3,7 @@
     "name":"Konrad Burchardt",
     "image":"konrad-burchardt.png",
     "bio":"Freelance SEO & Web developer born in Chile, based in Germany. I currently work at Uber EMEA and do freelancing SEO optimization & tools for some clients. Previously, I worked as a SEO Analyst at The Walt Disney Company in Los Angeles, California and as a Global SEO Analyst at ESPN. I'm pursiung a masters degree in Data Engineering at Jacobs University." ,
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "contactmessage":"Contact me if you want to ",
     "email": "hello@kburchardt.com",
     "phone": "+49 713 1759840",
     "website": "https://www.kburchardt.com",
@@ -299,11 +299,6 @@
         "title":"Inter Satelital Bolivia",
         "image":"intersat.png",
         "url":"https://www.intersatelital.com.bo"
-      },
-      {
-        "title":"Personal Paraguay",
-        "image":"personal.png",
-        "url":"https://personal.com.py"
       }
     ]
   },

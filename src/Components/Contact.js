@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import axios from 'axios';
 
-const API_PATH = './api/index.php';
+const API_PATH = '/api/index.php';
 
 class Contact extends Component {
 

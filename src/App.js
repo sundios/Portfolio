@@ -8,7 +8,6 @@ import Footer from './Components/Footer';
 import About from './Components/About';
 import Resume from './Components/Resume';
 import Contact from './Components/Contact';
-import Testimonials from './Components/Testimonials';
 import Portfolio from './Components/Portfolio';
 import Clients from './Components/Clients'
 
@@ -52,7 +51,17 @@ class App extends Component {
                 <meta charSet="utf-8" />
                 <title>Konrad Burchardt - SEO, Web Development & Data Analysis</title>
                 <link rel="canonical" href="https://www.kburchardt.com/" />
-                <meta name="description" content="A description of the page"/>
+                <meta name="description" content="Freelance for hire focused on SEO, Web Development & Data Analysis."/>
+
+
+<meta property="og:url" content="https://www.kburchardt.com/"/>
+<meta property="og:type" content="website"/>
+<meta property="og:title" content="Konrad Burchardt"/>
+<meta property="og:image" content="https://www.kburchardt.com/home.png"/>
+<meta property="og:image:alt" content="Home page"/>
+<meta property="og:description" content=" Freelance for hire focused on SEO, Web Development & Data Analysis."/>
+<meta property="og:site_name" content="Konrad Burchardt"/>
+
             </Helmet>
 
         <Header data={this.state.resumeData.main}/>
