@@ -6,6 +6,34 @@
 
 /* ================================================================== */
 
+@media only screen and (max-width: 1380px) { 
+
+.typewriter-text { font-size: 85px; }
+
+}
+
+
+@media only screen and (max-width: 1250px) { 
+
+.typewriter-text { font-size: 80px; }
+
+}
+
+
+@media only screen and (max-width: 1140px) { 
+
+.typewriter-text { font-size: 75px; }
+
+}
+
+@media only screen and (max-width: 1060px) { 
+
+.typewriter-text { font-size: 70px; }
+
+}
+
+
+
 
 /* screenwidth less than 1024px
 --------------------------------------------------------------------- */
@@ -18,6 +46,32 @@
       letter-spacing: -1px;
       margin: 0 auto 12px auto;
    }
+
+    .typewriter-text { font-size: 65px; }
+
+}
+
+/* screenwidth less than 990px
+--------------------------------------------------------------------- */
+@media only screen and (max-width: 990px) {
+
+    /* header styles
+   ------------------------------------------------------------------ */
+   
+
+    .typewriter-text { font-size: 65px; }
+
+}
+
+/* screenwidth less than 925px
+--------------------------------------------------------------------- */
+@media only screen and (max-width: 925px) {
+
+    /* header styles
+   ------------------------------------------------------------------ */
+   
+
+    .typewriter-text { font-size: 60px; }
 
 }
 
@@ -45,6 +99,8 @@
       font: 11px 'opensans-bold', sans-serif;
       letter-spacing: 1.5px;
    }
+
+    .typewriter-text { font-size: 50px; }
 
 
    /* About Section
