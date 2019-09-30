@@ -187,7 +187,10 @@
         "url":"https://www.php.net/"
       }
     ],
-    "tools":[
+    "tools":[{"name":"Amazon Web Services",
+        "image":"aws.png",
+        "url":"https://aws.amazon.com/"
+      },
       {"name":"Google Analytics 360",
         "image":"google360.png",
         "url":"https://360suite.google.com/"
