@@ -889,6 +889,13 @@ call-to-action .button {
    color: #ebeeee;
 }
 
+#contact h2
+{
+
+  text-align: center;
+
+}
+
 #contact h4 {
    font: 16px/24px 'opensans-bold', sans-serif;
    color: #EBEEEE;
