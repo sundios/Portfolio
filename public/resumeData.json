@@ -2,10 +2,10 @@
   "main": {
     "name":"Konrad Burchardt",
     "image":"konrad-burchardt.png",
-    "bio":"Freelance SEO & Web developer born in Chile, based in Germany. I currently work at Uber EMEA and do freelancing SEO optimization & tools for some clients. Previously, I worked as a SEO Analyst at The Walt Disney Company in Los Angeles, California and as a Global SEO Analyst at ESPN. I'm pursiung a masters degree in Data Engineering at Jacobs University." ,
+    "bio":"Freelance SEO & Web developer born in Chile, based in Los Angeles, CA . I currently work at Realtor.com and do freelancing SEO optimization & tools for some clients. Previously, I worked as an SEO consultant for UBER in Amsterdam, a SEO Analyst at The Walt Disney Company in Los Angeles, California and as a Global SEO Analyst at ESPN. I also got a masters Degree in Data engineer from Jacobs University in Bremen, Germany." ,
     "contactmessage":"Feel free to contact me if you want to discuss SEO projects, web development projects or data analysis.",
     "email": "hello@kburchardt.com",
-    "phone": "+49 713 1759840",
+    "phone": "+1 818 264 8841",
     "website": "https://www.kburchardt.com",
     "resumedownload":"https://www.kburchardt.com/Konrad_burchardt.pdf",
     "social":[
@@ -49,11 +49,18 @@
     ],
     "work":[
       {
+        "company":"Realtor.com",
+        "location":"Los Angeles, USA",
+        "title":" Sr, Product Manager, SEO",
+        "years":"May 2020 - Present",
+        "description":""},
+
+      {
         "company":"Uber EMEA",
         "location":"Amsterdam, Netherlands",
         "title":"SEO Consultant ",
-        "years":"August 2019 - Present",
-        "description":"" },
+        "years":"August 2019 - July 2020",
+        "description":"I supported all SEO strategies for Uber.com, UberEats.com EMEA, and Uber Freight EMEA.Developed a Rankscore metric that checks the visibility of our sites across all countries based on Keywords, Search Volume, and CTR." },
       {
         "company":"ESPN",
         "location":"Los Angeles, USA",
@@ -129,6 +136,11 @@
         "name":"Google Search Console",
         "image":"google.png",
         "url":"https://search.google.com/search-console/about"
+      },
+      {
+        "name":"Ahrefs",
+        "image":"ahrefs.png",
+        "url":"https://ahrefs.com/"
       }
     ],
     "code":[
@@ -225,6 +237,21 @@
   },
   "portfolio":{
     "projects": [
+       {
+        "title":"California Dumbbells",
+        "category":"Web Development + SEO optimization ",
+        "keywords":"Rubber Hex Dumbbells, California Dumbbells",
+        "image":"calidumbbells.gif",
+        "url":"https://www.californiadumbbells.com"
+      },
+      {
+        "title":"Simpletools.io",
+        "category":"Full stack Web Development. Python, React, Apache , Flask ",
+        "keywords":"People also ask Machine Learning",
+        "image":"simpletools.gif",
+        "url":"https://simpletools.io"
+      },
+      
       {
         "title":"Tuves Web site",
         "category":"Web Development + SEO optimization ",
@@ -283,9 +310,22 @@
         
       },
       {
+        "title":"Realtor.com",
+        "image":"realtor.png",
+        "url":"https://www.realtor.com"
+        
+      },
+      {
         "title":"Uber EMEA",
         "image":"uber.png",
         "url":"https://www.uber.com"
+        
+      }, 
+
+      {
+        "title":"Uber Eats",
+        "image":"uber-eats.png",
+        "url":"https://www.ubereats.com/"
         
       },
       {
