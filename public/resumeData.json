@@ -112,9 +112,19 @@
         "url":"https://www.deepcrawl.com/?=KonradBurchardt"
       },
       {
+        "name":"Botify",
+        "image":"botify.png",
+        "url":"https://www.botify.com/"
+      },
+      {
         "name":"Stat",
         "image":"stat.png",
         "url":"https://www.getstat.com/"
+      },
+      {
+        "name":"Traject",
+        "image":"traject.png",
+        "url":"https://bytraject.com/software/data/seo/"
       },
       {
         "name":"Majestic",
@@ -342,7 +352,19 @@
         "title":"Inter Satelital Bolivia",
         "image":"intersat.png",
         "url":"https://www.intersatelital.com.bo"
+      },
+      {
+        "title":"RepairSmith",
+        "image":"repairsmith.png",
+        "url":"https://www.repairsmith.com/"
+      },
+      {
+        "title":"Architectural Designs",
+        "image":"ad_logo.png",
+        "url":"https://www.architecturaldesigns.com/"
       }
+
+      
     ]
   }
 }
