@@ -2,10 +2,10 @@
   "main": {
     "name":"Konrad Burchardt",
     "image":"konrad-burchardt.png",
-    "bio":"Freelance SEO & Web developer born in Chile, based in Los Angeles, CA . I currently work at Realtor.com and do freelancing SEO optimization & tools for some clients. Previously, I worked as an SEO consultant for UBER in Amsterdam, a SEO Analyst at The Walt Disney Company in Los Angeles, California and as a Global SEO Analyst at ESPN. I also got a masters Degree in Data engineer from Jacobs University in Bremen, Germany." ,
+    "bio":"I'm a Growth Marketer and Technical SEO professional with over 10 years of experience helping global brands scale their organic acquisition and conversion. At Figma, I lead Technical SEO, Programmatic SEO, and scalable landing page generation, developing AI-driven workflows and systems that reach users organically and support the company's growth strategy.\n\nPreviously, I worked at Realtor.com, Uber, ESPN, and The Walt Disney Company, where I focused on large-scale SEO initiatives, technical performance, and data-driven optimization. I also co-founded kwrds.ai, an AI-powered keyword research and content automation platform serving 500+ monthly users.\n\nMy current focus is on technical SEO, scalable automation, and growth experimentation. Using strategy, data, and creativity to build systems that drive long-term impact." ,
     "contactmessage":"Feel free to contact me if you want to discuss SEO projects, web development projects or data analysis.",
     "email": "hello@kburchardt.com",
-    "phone": "+1 818 264 8841",
+    "phone": "",
     "website": "https://www.kburchardt.com",
     "resumedownload":"https://www.kburchardt.com/Konrad_burchardt.pdf",
     "social":[
@@ -49,50 +49,57 @@
     ],
     "work":[
       {
+        "company":"Figma",
+        "location":"Remote",
+        "title":"Growth Marketing Manager",
+        "years":"July 2024 - Present",
+        "description":"Lead Technical SEO, Programmatic SEO, and Growth strategy for figma.com. Develop AI-driven workflows and scalable landing page systems that drive organic growth and improve global discoverability. Collaborate with Engineering, Design, and Content teams to create high-performing, SEO-optimized experiences that support the company's acquisition goals."},
+
+      {
         "company":"Realtor.com",
         "location":"Los Angeles, USA",
-        "title":" Sr, Product Manager, SEO",
-        "years":"May 2020 - Present",
-        "description":""},
+        "title":"Lead Product Manager / Sr. Product Manager, SEO",
+        "years":"May 2020 - August 2024",
+        "description":"Led the SEO strategy and roadmap for sales and rentals. Managed new feature launches in collaboration with Engineering, Design, and Data Science teams. Conducted multiple A/B tests to measure and optimize organic traffic performance. Improved Core Web Vitals (CLS and LCP) by 25% and increased CTR by 20%. Maintained the #1 SEO ranking in the top 100 U.S. cities."},
 
       {
         "company":"Uber EMEA",
         "location":"Amsterdam, Netherlands",
-        "title":"SEO Consultant ",
-        "years":"August 2019 - July 2020",
-        "description":"I supported all SEO strategies for Uber.com, UberEats.com EMEA, and Uber Freight EMEA.Developed a Rankscore metric that checks the visibility of our sites across all countries based on Keywords, Search Volume, and CTR." },
+        "title":"SEO Consultant",
+        "years":"Aug 2019 – Jul 2020",
+        "description":"Supported SEO strategy for Uber.com, UberEats.com, and Uber Freight across EMEA. Developed a Rankscore metric to measure site visibility by country based on keywords, search volume, and CTR." },
       {
         "company":"ESPN",
         "location":"Los Angeles, USA",
         "title":"Global SEO Analyst",
-        "years":"Sept 2017 - Sept 2018",
-        "description":"In charge of all SEO strategies for ESPN.com, ESPN international properties, and ESPN affiliated sites. I did weekly reporting and analysis, SEO Training, and evangelism, Product support, Finding and Fixing SEO issues and content support."
+        "years":"Sept 2017 – Sept 2018",
+        "description":"Managed global SEO strategy for ESPN.com and international sites. Led reporting, SEO training, product support, and issue resolution to improve site visibility and performance."
       },
       {
         "company":"The Walt Disney Company",
         "location":"Los Angeles, USA",
         "title":"SEO Analyst",
-        "years":"Jan 2016 - Sept 2017",
-        "description":"Supported SEO strategy for shopDisney.com, Espn.com, Disney.com, and Starwars.com." },
+        "years":"Jan 2016 – Sept 2017",
+        "description":"Supported SEO for shopDisney.com, ESPN.com, Disney.com, and StarWars.com, optimizing site performance and content for search." },
 
         {
         "company":"The Walt Disney Company",
         "location":"Los Angeles, USA",
         "title":"SEO Associate",
-        "years":"Jan 2015 - Jan 2016",
-        "description":"In charge of Club Penguin,Disney Movies, Disney Video, Disney Channel, XD, and JR. Lead successful Club Penguin migration. I managed 500K URLsand transferred all SEO auth. ASO for all mobile games andapps in Spanish." },
+        "years":"Jan 2015 – Jan 2016",
+        "description":"Led the Club Penguin migration, managing over 500K URLs and preserving SEO authority. Oversaw SEO for Disney Movies, Disney Channel, and mobile app store optimization in Spanish." },
         {
         "company":"The Walt Disney Company",
         "location":"Los Angeles, USA",
-        "title":"SEO Intern ",
-        "years":"Feb 2014 - Jan 2015",
-        "description":" In charge of SEO for Disney ¡Ajá! and Club Penguin." },
+        "title":"SEO Intern",
+        "years":"Feb 2014 – Jan 2015",
+        "description":"Handled SEO for Disney ¡Ajá! and Club Penguin, supporting content visibility and international growth." },
         {
         "company":"Tuves HD",
         "location":"Santiago, Chile",
         "title":"Digital Marketing",
-        "years":"Jun 2011 - Sept 2012",
-        "description":" Developed an SEO friendly Wordpress theme and grew organic traffic to 20% of the totalacquisition traffic." }
+        "years":"Jun 2011 – Sept 2012",
+        "description":"Developed an SEO-friendly WordPress theme and increased organic traffic to 20% of total acquisition." }
     ],
     "seo":[
 
@@ -247,13 +254,6 @@
   },
   "portfolio":{
     "projects": [
-       {
-        "title":"California Dumbbells",
-        "category":"Web Development + SEO optimization ",
-        "keywords":"Rubber Hex Dumbbells, California Dumbbells",
-        "image":"calidumbbells.gif",
-        "url":"https://www.californiadumbbells.com"
-      },
       {
         "title":"Simpletools.io",
         "category":"Full stack Web Development. Python, React, Apache , Flask ",
@@ -261,7 +261,6 @@
         "image":"simpletools.gif",
         "url":"https://simpletools.io"
       },
-      
       {
         "title":"Tuves Web site",
         "category":"Web Development + SEO optimization ",
@@ -275,20 +274,6 @@
         "keywords":"Smartphone Chileno, celular chileno, smartwatch chileno, ",
         "image":"keiphone.gif",
         "url":"http://www.keiphone.com"
-      },
-      {
-        "title":"Inter Satelital Monitoreo",
-        "category":"Web Development( Wordpress theme) and  SEO optimization ",
-        "keywords":"rastreo satelital bolivia, Rastreo satelital de vehiculos Bolivia ",
-        "image":"inter-monitoreo.gif",
-        "url":"http://www.intersatelital.com.bo/monitoreo"
-      },
-      {
-        "title":"Inter Satelital Bolivia",
-        "category":"Web Development( Wordpress theme) and  SEO optimization",
-        "keywords":"Television satelital hd, Television Satelital Bolivia, tv hd bolivia",
-        "image":"inter.gif",
-        "url":"https://www.intersatelital.com.bo"
       },
       {
         "title":"Useless Thins to Buy",
@@ -362,6 +347,11 @@
         "title":"Architectural Designs",
         "image":"ad_logo.png",
         "url":"https://www.architecturaldesigns.com/"
+      },
+      {
+        "title":"Figma",
+        "image":"figma.png",
+        "url":"https://www.figma.com"
       }
 
       

@@ -39,7 +39,7 @@ class Header extends Component {
               </div>
             </h1> 
  
-            <h3>I'm a Freelance for hire focused on SEO, Web Development & Data Analysis.</h3> 
+            <h3>I help brands grow through SEO, web strategy, AI, and data-driven development</h3> 
             <hr />
             <ul className="social">
                {networks}
