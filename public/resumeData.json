@@ -7,7 +7,7 @@
     "email": "hello@kburchardt.com",
     "phone": "",
     "website": "https://www.kburchardt.com",
-    "resumedownload":"https://www.kburchardt.com/Konrad_burchardt.pdf",
+    "resumedownload":"https://www.kburchardt.com/Konrad_burchardt.html",
     "social":[
       {
         "name":"linkedin",
@@ -51,49 +51,43 @@
       {
         "company":"Figma",
         "location":"Remote",
+        "title":"Growth Marketing Engineer, SEO",
+        "years":"May 2026 - Present",
+        "description":"Own how Figma's content and site architecture perform across traditional and AI-driven search — engineering relevance at scale rather than managing crawl health alone. Lead GEO and AEO technical strategy, including how AI crawlers access and interpret Figma properties, and build structured experiments to improve how Figma is retrieved and cited across ChatGPT, Perplexity, and Gemini. Design and ship internal automation: SEO audit workflows, research pipelines, content QA, and agentic systems that reduce manual overhead on repeatable processes, working within a cross-functional AI systems pod alongside marketing ops and growth engineering."},
+
+      {
+        "company":"Figma",
+        "location":"Remote",
         "title":"Growth Marketing Manager",
-        "years":"July 2024 - Present",
-        "description":"Lead Technical SEO, Programmatic SEO, and Growth strategy for figma.com. Develop AI-driven workflows and scalable landing page systems that drive organic growth and improve global discoverability. Collaborate with Engineering, Design, and Content teams to create high-performing, SEO-optimized experiences that support the company's acquisition goals."},
+        "years":"July 2024 - May 2026",
+        "description":"Drove ~1,050% YoY signup growth by launching and scaling product-led, user-facing tools with Product, Design, and Engineering. Built AI-driven workflows and internal tooling to scale programmatic SEO, automation, and internationalization, generating 317K incremental organic clicks in 12 months. Owned product strategy and execution for Technical SEO, Programmatic SEO, and growth initiatives across Figma's acquisition surfaces, leading cross-functional teams to define requirements, prioritize roadmaps, and build optimized landing pages."},
 
       {
         "company":"Realtor.com",
         "location":"Los Angeles, USA",
         "title":"Lead Product Manager / Sr. Product Manager, SEO",
         "years":"May 2020 - August 2024",
-        "description":"Led the SEO strategy and roadmap for sales and rentals. Managed new feature launches in collaboration with Engineering, Design, and Data Science teams. Conducted multiple A/B tests to measure and optimize organic traffic performance. Improved Core Web Vitals (CLS and LCP) by 25% and increased CTR by 20%. Maintained the #1 SEO ranking in the top 100 U.S. cities."},
+        "description":"Led the SEO strategy and roadmap for sales and rentals, driving sustained organic growth. Conducted over 30 A/B tests to measure impact on organic traffic, increasing CTR by 20% and improving Core Web Vitals (CLS and LCP) by 25% on key pages. Contributed to achieving the #1 SEO ranking across the top 100 U.S. cities."},
 
       {
-        "company":"Uber EMEA",
+        "company":"Uber",
         "location":"Amsterdam, Netherlands",
-        "title":"SEO Consultant",
+        "title":"SEO & Web Consultant",
         "years":"Aug 2019 – Jul 2020",
-        "description":"Supported SEO strategy for Uber.com, UberEats.com, and Uber Freight across EMEA. Developed a Rankscore metric to measure site visibility by country based on keywords, search volume, and CTR." },
+        "description":"Implemented comprehensive SEO strategies for Uber.com and UberEats across the EMEA region, driving substantial organic growth. Managed 100+ international domains to ensure consistent SEO performance, and partnered with Data Science to develop a visibility score for UberEats.com." },
       {
-        "company":"ESPN",
+        "company":"ESPN / Disney",
         "location":"Los Angeles, USA",
         "title":"Global SEO Analyst",
-        "years":"Sept 2017 – Sept 2018",
-        "description":"Managed global SEO strategy for ESPN.com and international sites. Led reporting, SEO training, product support, and issue resolution to improve site visibility and performance."
+        "years":"Jul 2017 – Jul 2018",
+        "description":"Managed global SEO strategy for ESPN.com, international domains, and affiliates across LATAM, EMEA, and APAC. Led the HTTPS migration of ESPN.com, migrating 100M+ pages with zero ranking loss, and owned SEO for ESPN+, ESPNDeportes, FiveThirtyEight, and The Undefeated."
       },
       {
         "company":"The Walt Disney Company",
         "location":"Los Angeles, USA",
         "title":"SEO Analyst",
-        "years":"Jan 2016 – Sept 2017",
-        "description":"Supported SEO for shopDisney.com, ESPN.com, Disney.com, and StarWars.com, optimizing site performance and content for search." },
-
-        {
-        "company":"The Walt Disney Company",
-        "location":"Los Angeles, USA",
-        "title":"SEO Associate",
-        "years":"Jan 2015 – Jan 2016",
-        "description":"Led the Club Penguin migration, managing over 500K URLs and preserving SEO authority. Oversaw SEO for Disney Movies, Disney Channel, and mobile app store optimization in Spanish." },
-        {
-        "company":"The Walt Disney Company",
-        "location":"Los Angeles, USA",
-        "title":"SEO Intern",
-        "years":"Feb 2014 – Jan 2015",
-        "description":"Handled SEO for Disney ¡Ajá! and Club Penguin, supporting content visibility and international growth." },
+        "years":"Feb 2014 – Jul 2017",
+        "description":"Executed SEO strategies for shopDisney, ESPN.com, Disney.com, and Starwars.com. Led 20+ large-scale SEO migrations with a 100% success rate, including the Club Penguin migration of 1M+ URLs with all rankings preserved post-launch." },
         {
         "company":"Tuves HD",
         "location":"Santiago, Chile",
